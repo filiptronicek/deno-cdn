@@ -1,5 +1,5 @@
 {
     "routes": [
-        { "src": "/s/(?<id>[^/]*)", "dest": "/api/index?s=$id" }
+        { "src": "/s/(?<id>[^/]*).ts", "dest": "/api/index?s=$id" }
     ]
 }
