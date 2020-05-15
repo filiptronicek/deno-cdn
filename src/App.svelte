@@ -14,10 +14,10 @@ An easy shorter way for your deno packages.
   <br>
     <br>
 
-    <a href="https://dno.now.sh/s/web">https://dno.now.sh/s/web.ts</a>
+    <a href="https://dno.now.sh/s/web.ts">https://dno.now.sh/s/web.ts</a>
   <br>
   So the import for it will be just
 <code>
-import { serve } from &quot;https://dno.now.sh/s/web&quot;;
+import { serve } from "https://dno.now.sh/s/web.ts";
 </code>
 </main>
