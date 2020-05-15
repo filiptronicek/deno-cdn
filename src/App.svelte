@@ -14,7 +14,7 @@ An easy shorter way for your deno packages.
   <br>
     <br>
 
-    <a href="https://dno.now.sh/s/web">https://dno.now.sh/s/web</a>
+    <a href="https://dno.now.sh/s/web">https://dno.now.sh/s/web.ts</a>
   <br>
   So the import for it will be just
 <code>
