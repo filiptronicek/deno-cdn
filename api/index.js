@@ -1,8 +1,5 @@
 // @ts-nocheck
-const routes = [
-  [{ path: "web" }, { url: "https://deno.land/std@0.50.0/http/server.ts" }],
-];
-
+const routes = require('./routes');
 module.exports = (req, res) => {
     let it = 0;
   for (const route of routes) {
